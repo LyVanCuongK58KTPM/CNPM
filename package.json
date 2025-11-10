@@ -1,0 +1,11 @@
+{
+  "name": "my-nodered-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node-red"
+  },
+  "dependencies": {
+    "node-red": "^3.0.0",
+    "node-red-node-mysql": "^1.0.0"
+  }
+}
